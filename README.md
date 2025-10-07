@@ -2,6 +2,8 @@
 
 Bem-vindo(a) ao **Estante Virtual**, um projeto desenvolvido utilizando **Supabase** e **Lovable**, onde você pode gerenciar suas leituras de forma prática e interativa!
 
+Link do vídeo explicativo: [Vídeo](https://youtu.be/lfmLR-T9ZjM)
+
 Acesse o site: [Estante Virtual](https://larissas-library.lovable.app)
 
 Login: brandimlarissa.sa@gmail.com

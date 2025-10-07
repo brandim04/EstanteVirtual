@@ -4,6 +4,12 @@ Bem-vindo(a) ao **Estante Virtual**, um projeto desenvolvido utilizando **Supaba
 
 Acesse o site: [Estante Virtual](https://larissas-library.lovable.app)
 
+Login: brandimlarissa.sa@gmail.com
+
+Senha: 1234567
+
+Caso queira entrar em uma conta com livros ja cadastrados!
+
 ---
 
 ## 💡 Sobre o Projeto
